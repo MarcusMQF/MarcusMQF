@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Marcus Mah</h1>
+<h1 align="left">Hi👋, I'm Marcus Mah</h1>
 <h3 align="left">A Universiti Malaya Student studying Software Engineering</h3>
 <h4 align="left">Chess Player ♔ & Photograpgher 📸</h4>
 
