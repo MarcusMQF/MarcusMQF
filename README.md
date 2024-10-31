@@ -1,6 +1,6 @@
 <h1 align="left">Hi👋, I'm Marcus Mah</h1>
 <h3 align="left">A Universiti Malaya Student studying Software Engineering</h3>
-<h4 align="left">Chess Player♟️ & Photograpgher 📸</h4>
+<h4 align="left">Chess Player♟️ & Photographer 📸</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcusmqf&label=Profile%20views&color=0e75b6&style=flat" alt="marcusmqf" /> </p>
 
