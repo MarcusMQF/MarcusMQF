@@ -1,4 +1,4 @@
-<h1 align="left">Hi👋, I'm Marcus Mah</h1>
+<h1 align="left">Hi👋, I'm Marcus</h1>
 <h3 align="left">A Universiti Malaya Student studying Software Engineering</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcusmqf&show_icons=true&locale=en" alt="marcusmqf" /></p>
