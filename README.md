@@ -2,8 +2,6 @@
 <h3 align="left">A Universiti Malaya Student studying Software Engineering</h3>
 <h4 align="left">Chess Player♟️ & Photographer 📸</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marcusmqf&label=Profile%20views&color=0e75b6&style=flat" alt="marcusmqf" /> </p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcusmqf&show_icons=true&locale=en" alt="marcusmqf" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcusmqf&" alt="marcusmqf" /></p>
