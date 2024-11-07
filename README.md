@@ -1,5 +1,9 @@
 <h3 align="left">Hi there👋</h1>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusmqf&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+
+![LeetCode Stats](https://leetcode.card.workers.dev/marcusmqf?theme=auto&font=baloo&extension=null)
+
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=marcusmqf&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marcusmqf&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
