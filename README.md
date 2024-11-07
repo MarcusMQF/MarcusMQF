@@ -1,6 +1,4 @@
 <h3 align="left">Hi there👋</h1>
----
-<h3 align="left">A Software Engineering Student studying in University of Malaya</h1>
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=marcusmqf&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 
