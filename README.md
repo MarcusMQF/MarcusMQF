@@ -1,6 +1,6 @@
 <h3>Hello 👋, I'm Marcus</h1>
 
-## 💫 About Me:
+## 💫 About Me
 - 🔭 Currently working with Flutter
 - 🌱 Learning Backend Development
 - 📫 Reach me at: [marcusmah6969@gmail.com](mailto:marcusmah6969@gmail.com)
