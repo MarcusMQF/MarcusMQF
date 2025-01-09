@@ -41,6 +41,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marcusmqf&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
 ## 💀 LeetCode Stats
+[![LeetCode user MarcusMah](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FMarcusMah&logo=leetcode&logoColor=yellow)](https://leetcode.com/MarcusMah/)
 ![LeetCode Stats](https://leetcode.card.workers.dev/MarcusMah?theme=auto&font=baloo&extension=null)
 
 
