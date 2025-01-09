@@ -35,14 +35,16 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+## 💀 LeetCode Stats
+[![LeetCode user MarcusMah](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FMarcusMah&logo=leetcode&logoColor=yellow)](https://leetcode.com/MarcusMah/)
+![LeetCode Stats](https://leetcode.card.workers.dev/MarcusMah?theme=auto&font=baloo&extension=null)
+
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=marcusmqf&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marcusmqf&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
-## 💀 LeetCode Stats
-[![LeetCode user MarcusMah](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FMarcusMah&logo=leetcode&logoColor=yellow)](https://leetcode.com/MarcusMah/)
-![LeetCode Stats](https://leetcode.card.workers.dev/MarcusMah?theme=auto&font=baloo&extension=null)
+
 
 
 
