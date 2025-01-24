@@ -1,7 +1,7 @@
 <h3>Hello 👋, I'm Marcus</h1>
 
 ## 💫 About Me
-- 🔭 Currently working with Flutter
+- 🔭 Currently working with Flutter                                                      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)
 - 🌱 Learning Backend Development
 - 📫 Reach me at: [marcusmah6969@gmail.com](mailto:marcusmah6969@gmail.com)
 
