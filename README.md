@@ -44,7 +44,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marcusmqf&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcusmqf&show_icons=true&theme=transparent)
 
 
 
