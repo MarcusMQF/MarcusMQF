@@ -5,7 +5,7 @@
 - 🌱 Learning Backend Development
 - 📫 Reach me at: [marcusmah6969@gmail.com](mailto:marcusmah6969@gmail.com)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent)
 
 ## 🌐 Connect with Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/marcusmah08)
@@ -41,13 +41,9 @@
 [![LeetCode user MarcusMah](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FMarcusMah&logo=leetcode&logoColor=yellow)](https://leetcode.com/MarcusMah/)
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=marcusmqf&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marcusmqf&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcusmqf&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcusmqf&layout=compact)
+
 
 
 
