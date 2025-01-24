@@ -38,7 +38,7 @@
 [![LeetCode user MarcusMah](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FMarcusMah&logo=leetcode&logoColor=yellow)](https://leetcode.com/MarcusMah/)
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcusmqf&show_icons=true&theme=radical&border_colour=transparent)
 
