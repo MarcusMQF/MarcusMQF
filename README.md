@@ -1,16 +1,13 @@
 <h3>Hello 👋, I'm Marcus</h1>
 
 ## 💫 About Me
-- 🔭 Currently working with Flutter                                                      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)
+- 🔭 Currently working with Flutter   
 - 🌱 Learning Backend Development
 - 📫 Reach me at: [marcusmah6969@gmail.com](mailto:marcusmah6969@gmail.com)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent)
 
 ## 🌐 Connect with Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/marcusmah08)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mah-qing-fung)
-
 
 ## 🛠️ Tools
 ![image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -41,7 +38,7 @@
 [![LeetCode user MarcusMah](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FMarcusMah&logo=leetcode&logoColor=yellow)](https://leetcode.com/MarcusMah/)
 
 ## 📊 GitHub Stats
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcusmqf&show_icons=true&theme=transparent)
 
 
