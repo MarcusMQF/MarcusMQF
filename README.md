@@ -2,7 +2,7 @@
 
 ## 💫 About Me
 - 🔭 Currently working with Flutter   
-- 🌱 Learning Backend Development
+- 🌱 Learning Frontend Development
 - 📫 Reach me at: [marcusmah6969@gmail.com](mailto:marcusmah6969@gmail.com)
 
 ## 🌐 Connect with Me
