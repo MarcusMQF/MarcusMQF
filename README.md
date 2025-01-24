@@ -6,8 +6,6 @@
 - 📫 Reach me at: [marcusmah6969@gmail.com](mailto:marcusmah6969@gmail.com)
 
 ## 🌐 Connect with Me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/marcusmah08)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mah-qing-fung)
 <a href="https://www.linkedin.com/in/mah-qing-fung">
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="height:22px;">
 </a>
