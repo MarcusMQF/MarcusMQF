@@ -1,23 +1,17 @@
-<h3>Hello 👋, I'm Marcus</h1>
+<h3>Hello, I'm Marcus  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="20px"></h1>
 
-## 💫 About Me
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 - 🔭 Currently working with Flutter   
 - 🌱 Learning Machine Learning
 - 📫 Reach me at: [marcusmah6969@gmail.com](mailto:marcusmah6969@gmail.com)
 
-## 🌐 Connect with Me
-<a href="https://www.linkedin.com/in/mah-qing-fung">
- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="height:22px;">
-</a>
-<a href="https://github.com/marcusmqf">
- <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="height:22px;">
-</a>
-<a href="mailto:marcusmah6969@gmail.com">
- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="height:22px;">
-</a>
-<a href="https://instagram.com/marcusmah08">
- <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="height:22px;">
-</a>
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanhqZG5pYmUwanA4ejc5NGo0NGFoYjJtODJxZGk5ampmZ2FyaG4xZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CwTvSiWflgCGKgz5eb/giphy.gif" width="30"> Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/mah-qing-fung"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style="display:inline-block; vertical-align:middle;" /></a>
+  <a href="mailto:marcusmah6969@@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" style="display:inline-block; vertical-align:middle;" /></a>
+  <a href="https://github.com/marcusmqf"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" style="display:inline-block; vertical-align:middle;" /></a>
+  <a href="https://instagram.com/marcusmah08"><img src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" style="display:inline-block; vertical-align:middle;" /></a>
+</p>
 
 ## 🛠️ Tools
 ![image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
