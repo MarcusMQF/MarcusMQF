@@ -7,13 +7,6 @@
 🌙 Academic survivor in progress — manifesting that passing grade 
 ```
 
-```text
-🎖️ Hackathon Wins     [■■■■░░░░░░░░░░░░░░░░]  22% (2 wins)
-🎓 Semester Progress  [■■■░░░░░░░░░░░░░░░░░]  28.6% (2/7 completed)
-🤖 AI Learning        [██████████░░░░░░░░░░]  Researching LLMs & RAG
-⚔️ Academic Mode      [ ACTIVE ] Surviving deadlines...
-```
-
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanhqZG5pYmUwanA4ejc5NGo0NGFoYjJtODJxZGk5ampmZ2FyaG4xZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CwTvSiWflgCGKgz5eb/giphy.gif" width="30"> Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/mah-qing-fung"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style="display:inline-block; vertical-align:middle;" /></a>
