@@ -1,10 +1,15 @@
-<h3>Hello, I'm Marcus  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="20px"></h1>
+<div align="center">
+
+  <h2>Hello, I'm Marcus <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h2>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGFhNW94Z2oyNW55MWRjYW82ZTl5empsZnZqb2JsaHp4c2d3azlxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MxZKME5mbgeXckKp14/giphy.gif" width="300px" />
+
+</div>
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 ```text
-🌱 Hackathon enthusiast — always ready for the next challenge  
-🔭 Learning about LLMs & RAG — diving deep into AI  
-🌙 Academic survivor in progress — manifesting that passing grade 
+🌱 Hackathon enthusiast > always ready for the next challenge  
+🔭 Learning about LLMs & RAG >diving deep into AI  
+🌙 Academic survivor in progress > manifesting that passing grade 
 ```
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanhqZG5pYmUwanA4ejc5NGo0NGFoYjJtODJxZGk5ampmZ2FyaG4xZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CwTvSiWflgCGKgz5eb/giphy.gif" width="30"> Connect with Me
