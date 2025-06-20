@@ -54,4 +54,4 @@
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanhqZG5pYmUwanA4ejc5NGo0NGFoYjJtODJxZGk5ampmZ2FyaG4xZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CwTvSiWflgCGKgz5eb/giphy.gif" width="30"> GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcusmqf&show_icons=true&theme=radical&hide_border=true)
-   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGFhNW94Z2oyNW55MWRjYW82ZTl5empsZnZqb2JsaHp4c2d3azlxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MxZKME5mbgeXckKp14/giphy.gif" width="2200px" />
+   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGFhNW94Z2oyNW55MWRjYW82ZTl5empsZnZqb2JsaHp4c2d3azlxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MxZKME5mbgeXckKp14/giphy.gif" width="220px" />
