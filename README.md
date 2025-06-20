@@ -11,7 +11,7 @@
 </p>
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW14cmNmOW05cmR5MGxjZTdjMmwyaHVvbWVtOWh3emxpcTAyM2YxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wmPwaqkdoFa5pAYn60/giphy.gif" width="180px" />
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemwya212NDN5N3Rpd2N1eWtraG92YWdoeTJvaWxraTNuejFqNWdxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/x0EASzgqjpvVrYjzvk/giphy.gif" width="200px" />
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWh6dDk4cGtkdDAzenc3b242anY0NWluMzBnN2ozaHp2YjB1enFjaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rhfVcQF4SXYVgvI9Ut/giphy.gif" width="200px" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWh6dDk4cGtkdDAzenc3b242anY0NWluMzBnN2ozaHp2YjB1enFjaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rhfVcQF4SXYVgvI9Ut/giphy.gif" width="180px" />
 </div>
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
@@ -54,4 +54,4 @@
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanhqZG5pYmUwanA4ejc5NGo0NGFoYjJtODJxZGk5ampmZ2FyaG4xZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CwTvSiWflgCGKgz5eb/giphy.gif" width="30"> GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcusmqf&show_icons=true&theme=radical&hide_border=true)
-   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGFhNW94Z2oyNW55MWRjYW82ZTl5empsZnZqb2JsaHp4c2d3azlxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MxZKME5mbgeXckKp14/giphy.gif" width="220px" />
+   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGFhNW94Z2oyNW55MWRjYW82ZTl5empsZnZqb2JsaHp4c2d3azlxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MxZKME5mbgeXckKp14/giphy.gif" width="180px" />
