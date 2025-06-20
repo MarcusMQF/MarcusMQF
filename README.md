@@ -1,6 +1,14 @@
 <div align="center">
 
   <h2>Hello, I'm Marcus <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h2>
+  <p align="center">
+    <p>💻 Passionate about technology & building tools that make life easier</p>
+
+  <a href="https://www.linkedin.com/in/mah-qing-fung"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style="display:inline-block; vertical-align:middle;" /></a>
+  <a href="mailto:marcusmah6969@@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" style="display:inline-block; vertical-align:middle;" /></a>
+  <a href="https://github.com/marcusmqf"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" style="display:inline-block; vertical-align:middle;" /></a>
+  <a href="https://instagram.com/marcusmah08"><img src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" style="display:inline-block; vertical-align:middle;" /></a>
+</p>
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW14cmNmOW05cmR5MGxjZTdjMmwyaHVvbWVtOWh3emxpcTAyM2YxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wmPwaqkdoFa5pAYn60/giphy.gif" width="180px" />
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemwya212NDN5N3Rpd2N1eWtraG92YWdoeTJvaWxraTNuejFqNWdxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/x0EASzgqjpvVrYjzvk/giphy.gif" width="200px" />
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWh6dDk4cGtkdDAzenc3b242anY0NWluMzBnN2ozaHp2YjB1enFjaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rhfVcQF4SXYVgvI9Ut/giphy.gif" width="200px" />
@@ -12,13 +20,6 @@
 🌱 Hackathon enthusiast > always ready for the next challenge  
 🌙 Academic survivor in progress > manifesting that passing grade 
 ```
-## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnR1ZGs3c2FiMjVzMGl0aGlyNDIzb2ZrZmhnZHgwMzBzb2J3ZWh3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sj6nlbZw41MkG785Eu/giphy.gif" width="40"> Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/mah-qing-fung"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style="display:inline-block; vertical-align:middle;" /></a>
-  <a href="mailto:marcusmah6969@@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" style="display:inline-block; vertical-align:middle;" /></a>
-  <a href="https://github.com/marcusmqf"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" style="display:inline-block; vertical-align:middle;" /></a>
-  <a href="https://instagram.com/marcusmah08"><img src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" style="display:inline-block; vertical-align:middle;" /></a>
-</p>
 
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmYxYjhrNXdyYmFha2xhY3luZGJxMXg4MWM5NXRpcTdva2xhbjQ0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iDaCeaKrHhUI1I8e2b/giphy.gif" width="30"> Tools
 ![image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
