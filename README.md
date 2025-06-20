@@ -1,7 +1,7 @@
 <div align="center">
 
   <h2>Hello, I'm Marcus <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h2>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGFhNW94Z2oyNW55MWRjYW82ZTl5empsZnZqb2JsaHp4c2d3azlxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MxZKME5mbgeXckKp14/giphy.gif" width="300px" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGFhNW94Z2oyNW55MWRjYW82ZTl5empsZnZqb2JsaHp4c2d3azlxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MxZKME5mbgeXckKp14/giphy.gif" width="200px" />
 
 </div>
 
@@ -56,7 +56,6 @@
 
 ## 📊 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcusmqf&show_icons=true&theme=radical&hide_border=true)
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGFhNW94Z2oyNW55MWRjYW82ZTl5empsZnZqb2JsaHp4c2d3azlxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MxZKME5mbgeXckKp14/giphy.gif" width="200"> 
 
 
 
