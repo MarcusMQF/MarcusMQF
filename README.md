@@ -16,7 +16,7 @@
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 ```text
-🔭 Learning about LLMs & RAG >diving deep into AI
+🔭 Learning about LLMs & RAG > diving deep into AI
 🌱 Hackathon enthusiast > always ready for the next challenge  
 🌙 Academic survivor in progress > manifesting that passing grade 
 ```
