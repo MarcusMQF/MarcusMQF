@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h2>Hello, I'm Marcus <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h2>
+  <h2>Hello, I'm Marcus <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="25px"></h2>
   <p align="center">
     <p>💻 Passionate about technology & building tools that make life easier</p>
 
