@@ -9,9 +9,6 @@
   <a href="https://github.com/marcusmqf"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" style="display:inline-block; vertical-align:middle;" /></a>
   <a href="https://instagram.com/marcusmah08"><img src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" style="display:inline-block; vertical-align:middle;" /></a>
 </p>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW14cmNmOW05cmR5MGxjZTdjMmwyaHVvbWVtOWh3emxpcTAyM2YxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wmPwaqkdoFa5pAYn60/giphy.gif" width="180px" />
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemwya212NDN5N3Rpd2N1eWtraG92YWdoeTJvaWxraTNuejFqNWdxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/x0EASzgqjpvVrYjzvk/giphy.gif" width="200px" />
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWh6dDk4cGtkdDAzenc3b242anY0NWluMzBnN2ozaHp2YjB1enFjaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rhfVcQF4SXYVgvI9Ut/giphy.gif" width="200px" />
 </div>
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
