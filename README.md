@@ -16,7 +16,7 @@
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me<br>
 - 🔭 Currently working as a **mobile app developer**<br>
-- 🧐 Learning about **system design & architecture, AI agent & SDK and ML**<br>
+- 🧐 Learning about **system design & architecture, AI agent & agentic framework and ML**<br>
 - 🌙 Still dealing with **time management and academic workloads**<br>
 - 🌱 **Hackathon enthusiast** and always ready for the next challenge<br>
 
