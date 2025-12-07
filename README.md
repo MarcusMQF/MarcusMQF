@@ -8,6 +8,7 @@
   <a href="mailto:marcusmah6969@@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" style="display:inline-block; vertical-align:middle;" /></a>
   <a href="https://github.com/marcusmqf"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" style="display:inline-block; vertical-align:middle;" /></a>
   <a href="https://instagram.com/marcusmah08"><img src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" style="display:inline-block; vertical-align:middle;" /></a>
+  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-FFFFFF.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=black" style="display:inline-block; vertical-align:middle;" /></a>
 </p>
 </div>
 
