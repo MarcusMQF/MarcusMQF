@@ -2,7 +2,7 @@
 
   <h2>Hello, I'm Marcus <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="25px"></h2>
   <p align="center">
-    <p>💻 Passionate about technology & building tools that make life easier</p>
+    <p>🍌 Passionate about technology & building tools that bring impact</p>
 
   <a href="https://www.linkedin.com/in/mah-qing-fung"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style="display:inline-block; vertical-align:middle;" /></a>
   <a href="mailto:marcusmah6969@@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" style="display:inline-block; vertical-align:middle;" /></a>
@@ -17,7 +17,7 @@
 🔭 Currently working as a **mobile app developer**<br>
 🧐 Learning about **system design & architecture, AI Agent & SDK and ML**<br>
 🌙 Still dealing with **time management and academic workloads**<br>
-🌱 **Hackathon enthusiast** and always ready for the next challenge
+🌱 **Hackathon enthusiast** and always ready for the next challenge<br>
 
 <div align="center">
 <picture>
