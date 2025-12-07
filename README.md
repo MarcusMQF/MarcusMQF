@@ -13,19 +13,18 @@
 
 <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=MarcusMQF&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=false&background=radial-gradient%28circle+at+81%25+13%25%2C+%234db3dbff+0%25%2C+%231c1c45+100%25%29%2C+url%28https%3A%2F%2Fimages-wixmp-ed30a86b8c4ca887773594c2.wixmp.com%2Ff%2F56ddcf59-3cb4-4f3d-851e-91ec86e67871%2Fdf9xsq7-bf213b05-8c95-4b5e-a8aa-718d329ab707.png%3Ftoken%3DeyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi81NmRkY2Y1OS0zY2I0LTRmM2QtODUxZS05MWVjODZlNjc4NzEvZGY5eHNxNy1iZjIxM2IwNS04Yzk1LTRiNWUtYThhYS03MThkMzI5YWI3MDcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Oe3yS_4pdoJoWWONm1KfoNPB0kZebMY1ByqeSer_zIY%29&color=%23ffffffFF">
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
-  <div>
-    <h2><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me</h2>
-    <ul>
-      <li>🔭 Currently working as a mobile app developer</li>
-      <li>🧐 Learning about system design & architecture, AI Agent & SDK and a bit ML</li>
-      <li>👩‍💻 Most of my projects are available on <a href="#">Github</a>.</li>
-      <li>🌙 Still dealing with time management and struggling with academic</li>
-      <li>💬 🌱 Hackathon enthusiast and always ready for the next challenge  </li>
-    </ul>
-  </div>
-  <img src="https://user-images.githubusercontent.com/74038190/216655855-e00c1861-e964-4b4f-90ae-2592cad7b272.gif" width="300" />
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/216655855-e00c1861-e964-4b4f-90ae-2592cad7b272.gif"
+     width="220"
+     align="right">
+
+<h2><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me</h2>
+
+<ul>
+  <li>🔭 Currently working as a mobile app developer</li>
+  <li>🧐 Learning about system design & architecture, AI Agent & SDK and a bit ML</li>
+  <li>🌙 Still dealing with time management and struggling with academic</li>
+  <li>🌱 Hackathon enthusiast and always ready for the next challenge</li>
+</ul>
 
 <div align="center">
 <picture>
