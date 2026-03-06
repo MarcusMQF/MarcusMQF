@@ -17,7 +17,6 @@
 > 80% vibe-coding, 20% debugging – the natural lifecycle of my projects. Most of the real work is understanding users, brainstorming the product, and pointing AI in the right direction, and reviewing the code it generates.
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white" />
 <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/-React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -28,8 +27,9 @@
 <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
 <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
 
-<img src="https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
 
 <img src="https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white" />
 </p>
@@ -39,7 +39,7 @@
 - Rapid prototyping that turns ideas into full apps in just a day, not months
 - Learning about system design & architecture, AI agent & agentic framework and ML<br>
 - Still dealing with time management and academic workloads<br>
-- Hackathon enthusiast and always ready for the next challenge<br>
+- Hackathon enthusiast and always ready for the next challenge
 
 ## Projects
 - 📱 **[Nano Spend](https://play.google.com/store/apps/details?id=com.marcusmqf.nanospend)** - a personal offline finance app for easier expense and bill tracking
@@ -48,8 +48,8 @@
 - 🦉 **[Owl](https://github.com/MarcusMQF/agent-bot-telegram)** - a self-hosted Telegram personal assistant powered by AI for document analysis and smart reminders
 - 🗃️ **[umpaper fetch](https://github.com/MarcusMQF/umpaper-fetch)** - CLI tool to bulk download Universiti Malaya's past-year exam papers with a single command
 - 🔎 **[ForeSight](https://github.com/MarcusMQF/Foresight)** - ai-powered talent acquisition platform that helps HR efficiently source, screen, and match candidates
-- 🎓 **[StudySync](https://study-sync-murex-rho.vercel.app/timetable) - academic schedule planning tool designed specifically for University of Malaya students
-- 🛸 **[Invaders](https://github.com/MarcusMQF/SpaceShip-Game-with-Raylib) - a boring 2D spaceship invaders mini game
+- 🎓 **[StudySync](https://study-sync-murex-rho.vercel.app/timetable)** - academic schedule planning tool designed specifically for University of Malaya students
+- 🛸 **[Invaders](https://github.com/MarcusMQF/SpaceShip-Game-with-Raylib)** - a boring 2D spaceship invaders mini game
 
 ## Github Activity
 ![GitHub Contribution Graph](https://ghchart.rshah.org/steipete)
