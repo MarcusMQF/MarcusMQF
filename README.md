@@ -53,9 +53,8 @@
 - 🛸 **[Invaders](https://github.com/MarcusMQF/SpaceShip-Game-with-Raylib)** - a boring 2D spaceship invaders mini game
 
 ## Github Activity
-
+![GitHub Contribution Graph](https://ghchart.rshah.org/MarcusMQF)
 <p align="center">
-  <img src="https://ghchart.rshah.org/MarcusMQF" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarcusMQF&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
 </p>
 
