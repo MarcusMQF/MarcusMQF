@@ -17,14 +17,11 @@
 > 80% vibe-coding, 20% debugging – the natural lifecycle of my projects. Most of the real work is understanding users, brainstorming the product, and pointing AI in the right direction, and reviewing the code it generates.
 
 <p align="center">
-<img src="https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white" />
 <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/-React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white" />
-<img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
 <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
 
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -32,6 +29,8 @@
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
 
 <img src="https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white" />
+<img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
 </p>
 
 ## What I'm Doing
