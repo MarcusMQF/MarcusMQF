@@ -41,7 +41,7 @@
 ## Projects
 - 📱 **[Nano Spend](https://play.google.com/store/apps/details?id=com.marcusmqf.nanospend)** - a personal offline finance app for easier expense and bill tracking
 - 📊 **[ByeDB](https://bye-db.vercel.app/)** - an platform that transforming natural language into sql data insights
-- 🦎 **[UndefinedAI](https://github.com/MarcusMQF/undefined-ai)** - an agentic learning platform with unlimited UI possibilities, where your curiosity defines it
+- 🦎 **[UndefinedAI](https://undefined-ai-landing.vercel.app/)** - an agentic learning platform with unlimited UI possibilities, where your curiosity defines it
 - 📃 **[AutoDocX](https://autodocx-beta.vercel.app/)** - an ai-powered documentation platform for developers (deepwiki)
 - 🦉 **[Owl](https://github.com/MarcusMQF/agent-bot-telegram)** - a self-hosted Telegram personal assistant powered by AI for document analysis and smart reminders
 - 🗃️ **[umpaper fetch](https://github.com/MarcusMQF/umpaper-fetch)** - CLI tool to bulk download Universiti Malaya's past-year exam papers with a single command
