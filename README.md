@@ -39,6 +39,7 @@
 - Hackathon enthusiast and always ready for the next challenge
 
 ## Projects
+- **[NotThreads](https://notthreads.vercel.app/)** - an AI study community where you learn by helping familiar community members understand together, like scrolling any social app
 - 📱 **[Nano Spend](https://play.google.com/store/apps/details?id=com.marcusmqf.nanospend)** - a personal offline finance app for easier expense and bill tracking
 - 📊 **[ByeDB](https://bye-db.vercel.app/)** - an platform that transforming natural language into sql data insights
 - 🦎 **[UndefinedAI](https://undefined-ai-landing.vercel.app/)** - an agentic learning platform with unlimited UI possibilities, where your curiosity defines it
