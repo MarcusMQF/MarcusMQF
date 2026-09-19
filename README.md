@@ -40,7 +40,7 @@
 
 ## Projects
 - 🧠 **[NotThreads](https://notthreads.vercel.app/)** - an AI study community that learns with you, like scrolling any social app
-- 📱 **[Nano Spend](https://play.google.com/store/apps/details?id=com.marcusmqf.nanospend)** - a personal offline finance app for easier expense and bill tracking
+- 📱 **[Nano Spend](https://nano-spend-landing.vercel.app/)** - a personal offline finance app for easier expense and bill tracking
 - 📊 **[ByeDB](https://bye-db.vercel.app/)** - an platform that transforming natural language into sql data insights
 - 🦎 **[UndefinedAI](https://undefined-ai-landing.vercel.app/)** - an agentic learning platform with unlimited UI possibilities, where your curiosity defines it
 - 📃 **[AutoDocX](https://autodocx-beta.vercel.app/)** - an ai-powered documentation platform for developers (deepwiki)
