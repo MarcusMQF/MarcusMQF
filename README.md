@@ -47,6 +47,6 @@
 - 🦉 **[Owl](https://github.com/MarcusMQF/agent-bot-telegram)** - a self-hosted Telegram personal assistant powered by AI for document analysis and smart reminders
 - 🗃️ **[umpaper fetch](https://github.com/MarcusMQF/umpaper-fetch)** - CLI tool to bulk download Universiti Malaya's past-year exam papers with a single command
 - 🔎 **[ForeSight](https://github.com/MarcusMQF/Foresight)** - ai-powered talent acquisition platform that helps HR efficiently source, screen, and match candidates
-- 🎙️ **[Talk To Task](https://github.com/MarcusMQF/Talk-to-Task)** - a voice-powered AI assistant that helps Grab drivers manage rides, navigate, and stay hands-free while driving
+- 🎙️ **[Talk To Task](https://github.com/MarcusMQF/Talk-to-Task)** - a voice-powered AI assistant that helps Grab drivers manage rides and navigate hands-free
 - 🎓 **[StudySync](https://study-sync-murex-rho.vercel.app/timetable)** - academic schedule planning tool designed specifically for University of Malaya students
 - 🛸 **[Invaders](https://github.com/MarcusMQF/SpaceShip-Game-with-Raylib)** - a boring 2D spaceship invaders mini game
